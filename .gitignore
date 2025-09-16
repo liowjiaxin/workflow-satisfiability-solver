@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Solution output files
+solutions/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
